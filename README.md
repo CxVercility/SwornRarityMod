@@ -2,4 +2,4 @@
 
 Requires MelonLoader
 
-Legendary 5%, Epic 8%, Rare 12%, Uncommon 25%
+Base chances (excluding your upgrades) Legendary 3%, Epic 8%, Rare 20%, Uncommon 25%
