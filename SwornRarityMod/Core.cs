@@ -23,9 +23,9 @@ class Patch
     {
         if (!hasRun)
         {
-            __instance.legendaryBlessingBaseChance = 0.05f;
-            __instance.epicBlessingBaseChance = 0.08f;
-            __instance.rareBlessingBaseChance = 0.12f;
+            __instance.legendaryBlessingBaseChance = 0.3f;
+            __instance.epicBlessingBaseChance = 0.8f;
+            __instance.rareBlessingBaseChance = 0.20f;
             __instance.uncommonBlessingBaseChance = 0.25f;
         }
         
